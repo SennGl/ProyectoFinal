@@ -1,0 +1,16 @@
+ID_Transaccion,Fecha,Categoria,Producto,Precio_Unitario,Cantidad,Costo_Unitario,Metodo_Pago,Cliente_Genero
+T-1001,2024-01-02,Electronica,Audifonos BT,50.00,2,25.00,Tarjeta Credito,F
+T-1002,2024-01-02,Accesorios,Funda Celular,15.00,1,5.00,Efectivo,M
+T-1003,2024-01-03,Electronica,Cable USB-C,10.00,5,3.00,Tarjeta Debito,M
+T-1004,2024-01-03,Hogar,Lampara LED,25.00,1,12.00,Transferencia,F
+T-1005,2024-01-04,Electronica,Mouse Inalambrico,20.00,3,10.00,Efectivo,F
+T-1006,2024-01-05,Accesorios,Mochila Laptop,45.00,1,20.00,Tarjeta Credito,M
+T-1007,2024-01-06,Electronica,Teclado Mecanico,80.00,1,50.00,Tarjeta Credito,M
+T-1008,2024-01-07,Hogar,Camara Seguridad,60.00,2,35.00,Tarjeta Debito,F
+T-1009,2024-01-08,Accesorios,Soporte Laptop,30.00,1,12.00,Transferencia,M
+T-1010,2024-01-09,Electronica,Monitor 24in,150.00,1,100.00,Tarjeta Credito,F
+T-1011,2024-01-10,Electronica,Audifonos BT,50.00,1,25.00,Efectivo,M
+T-1012,2024-01-11,Accesorios,Protector Pantalla,8.00,4,2.00,Efectivo,F
+T-1013,2024-01-12,Hogar,Enchufe Inteligente,18.00,2,9.00,Tarjeta Debito,M
+T-1014,2024-01-13,Electronica,Tablet Basica,120.00,1,90.00,Tarjeta Credito,F
+T-1015,2024-01-14,Electronica,Cable HDMI,12.00,3,4.00,Efectivo,M
